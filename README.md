@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Physics professor at [Fairfield University](https://www.fairfield.edu). My research is nuclear and particle physics, and in particular, I work at [Jefferson Lab](https://www.jlab.org) in Newport News, VA
 <!--
 **AngelaBi/AngelaBi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
